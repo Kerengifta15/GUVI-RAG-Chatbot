@@ -1,0 +1,110 @@
+Frequently Asked Questions
+
+How do I get certified for a course?
+To get certified in a course, you need to successfully complete all quizzes and submissions (if applicable) with 100% progression.
+
+
+My progression is 100%, but the certificate isn't loading/generating. What should I do?
+Please clear your browser history and try again. If the issue persists, log out and log back in, then try again.
+
+
+I don't know the answer to the quiz of a course, can I still get certified?
+Please ensure you complete the quiz with the correct answer. You can attempt the quiz an unlimited number of times.
+
+
+How can I change my name on my certificate/profile?
+Please follow these steps: Go to your profile -> Edit your name -> Refresh your browser (CTRL + F5) -> Regenerate your certificate.
+
+
+Where can I find the certificate? Where is the 'Get Certified' option?
+You need to click on the 'Get Certified' option at the end of the course modules in the table of contents. It will only be displayed after you complete all the lessons with 100% progress.
+
+
+I cannot download my certificate, a blank screen appears, what should I do?
+The certificate should automatically download. Please check your downloads folder, the certificate will download as a PDF file. For better results, try using Google Chrome.
+
+
+Why is Course X not available in Y language?
+We sincerely apologize for the inconvenience. We are committed to offering courses in as many regional languages as possible. Please send your request to info@guvi.in.
+
+
+What can I do with GEEKOINS?
+HCL GUVI users can use GEEKOINS to purchase courses and 'run counts,' useful in CodeKata, WebKata, and Debugging, and redeem coupons from the rewards section.
+
+
+What is your refund policy? I want a refund for my course.
+Refunds are processed within 7 working days from the date you fill out the refund form, which will be sent to your email by our team. To request a refund, please contact us at info@guvi.in or reach out to your course coordinator via email or phone, providing your details and the reason for the refund.
+
+
+Where can I find the courses?
+Please visit this link https://www.guvi.in/courses to view our course library.
+
+
+I'm not able to log in. Please help.
+Please refresh your browser (CTRL + SHIFT + R for Windows, CMD + SHIFT + R for Mac) and try again. Also, consider trying a different browser.
+
+For further Queries, Drop a mail to
+info@guvi.in
+ZEN CLASS
+
+LIVE CLASS
+
+Full Stack Development
+Data Science
+Software Development
+Intel AIML
+Automation & Testing
+UI/UX
+DevOps
+Business Analytics with Digital Marketing
+All Programs
+Popular Courses
+
+Python - IIT-M Pravartak Certified
+Java
+Mobile Hacking
+C Programming
+AWS
+Angular
+Dark Web
+All Courses
+Self-Paced Courses
+
+Premium Pass
+Paid Courses
+Free Courses
+Combos
+Practice Platforms
+
+CodeKata
+WebKata
+SQLKata
+Debugging
+IDE
+Community
+
+Campus Ambassador
+Industrial visit
+Products
+
+HackerKID
+Placement Preparation
+HCL GUVI for Corporates
+Studytonight
+Resources
+
+Success Stories
+Learn Hub
+Free Resources
+New
+Blog
+Web Stories
+Rewards
+Refer a friend
+Become an Affiliate
+Company
+
+Refund Policy
+FAQs
+Contact Us
+About Us

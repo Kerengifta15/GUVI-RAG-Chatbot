@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+google-generativeai
+faiss-cpu
+numpy
+nltk
+rouge

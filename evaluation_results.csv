@@ -1,0 +1,8 @@
+Metric,Value
+Precision@3,0.11
+Recall@3,0.33
+Average BLEU,0.1
+Average ROUGE-L,0.32
+Latency (sec),0.03
+PEP8_Status,Issues Found
+Timestamp,08-11-2025 19:19
