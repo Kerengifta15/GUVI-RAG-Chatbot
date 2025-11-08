@@ -29,7 +29,6 @@ An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot designed to answe
 ## 🗂️ Project Structure
 
 GUVI_RAG_Chatbot/
-GUVI_RAG_Chatbot/
 │
 ├── app/
 │ ├── streamlit_app.py # Main Streamlit application
