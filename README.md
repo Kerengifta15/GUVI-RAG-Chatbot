@@ -94,7 +94,6 @@ Code Quality: PEP8 compliance and modular structure
 
 🧑‍💻 Developer
 Keren Gifta A
-💌 LinkedIn Profile | 🐙 GitHub Profile
 
 🏁 Acknowledgements
 Special thanks to GUVI for providing data and resources, and to Google Gemini for powering the AI responses.
